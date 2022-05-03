@@ -1,6 +1,6 @@
-######################################
+#############################################
 # Dockerfile that builds a CSGO Game Server #
-######################################
+#############################################
 FROM cm2network/steamcmd:root
 
 #LABEL maintainer="walentinlamonos@gmail.com"
